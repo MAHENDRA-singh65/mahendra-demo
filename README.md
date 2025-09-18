@@ -1,3 +1,3 @@
 # mahendra-demo
 this is my first git repository
-mahendra singh
+author-mahendra singh
